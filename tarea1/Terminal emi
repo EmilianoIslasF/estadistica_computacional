@@ -1,0 +1,344 @@
+emil_@Emi:~$ history
+    1  ls
+    2  ls -al
+    3  whoami
+    4  cd..
+    5  cd ..
+    6  ls
+    7  ls-al
+    8  ls -al
+    9  cd ..
+   10  cd mnt
+   11  cd
+   12  pwd
+   13  docker
+   14  docker images
+   15  sudo docker images
+   16  dokcer pull datasciencetoolbox/dsatcl2e
+   17  sudo docker pull datasciencetoolbox/dsatcl2e
+   18  sudo ducker run --rm -it datasciencetoolbox/dsatcl2e
+   19  sudo docker run --rm -it datasciencetoolbox/dsatcl2e
+   20  sudo docker ps -a
+   21  cd
+   22  C:\Users\emil_\Desktop\ITAM_Maestrtía\Estadística Computacional
+   23  cd C:\Users\emil_\Desktop\ITAM_Maestrtía\Estadística Computacional
+   24  cd C/Users/emil_/Desktop\ITAM_Maestrtía\Estadística Computacional
+   25  ls
+   26  C:\Users\emil_\Desktop\ITAM_Maestrtía\Estadística Computacional
+   27  cd C:\Users\emil_\Desktop\ITAM_Maestrtía\Estadística Computacional
+   28  C:\Users\emil_\Desktop\ITAM_Maestrtía\Estadística Computacional
+   29  cd/
+   30  touch prueba.txt
+   31  ls
+   32  cd data
+   33  cowsay "Bienvenidos a Estadística computacional\!"
+   34  whoami
+   35  password
+   36  echo "Bienvenidos a Estadística computacional\!"echo "Bienvenidos a Estadística computacional\!"echo "Bienvenidos a Estadística computacional\!"
+   37  sudo docker ps -a
+   38  ls
+   39  pwd
+   40  ls-al
+   41  ls -al
+   42  ls -a
+   43  pwd
+   44  ls -al
+   45  whoami
+   46  cd .ssh
+   47  cd .cache
+   48  ls
+   49  cd ..
+   50  ls
+   51  ls -al
+   52  ls
+   53  cd ..
+   54  ls
+   55  cd ..
+   56  ls
+   57  la -al
+   58  ls al
+   59  ls -al
+   60  cd mnt
+   61  ls
+   62  cd c
+   63  ls
+   64  cd Users/
+   65  ls
+   66  emil_/
+   67  ls
+   68  cd
+   69  pwd
+   70  docker
+   71  docker images
+   72  docker
+   73  docke
+   74  docker
+   75  docker images
+   76  docker pull datasciencetoolbox/dsatcl2e
+   77  docker ps
+   78  docker ps -a
+   79  docker run --rm -it --platform linux/amd64 datasciencetoolbox/dsatcl2e
+   80  docker ps
+   81  docker ps -a
+   82  docker run --rm -it --platform linux/amd64 datasciencetoolbox/dsatcl2e
+   83  sudo docker ps -a
+   84  sudo docker ps
+   85  exit
+   86  pwd
+   87  cd /mnt
+   88  ls
+   89  cd c
+   90  Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional
+   91  C:\Users\emil_\Desktop\ITAM_Maestrtía\Estadística Computacional
+   92  Users\emil_\Desktop\ITAM_Maestrtía\Estadística Computacional
+   93  Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional
+   94  Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacionalls
+   95  Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional
+   96  Users/emil_/Desktop/ITAM_Maestrtía/Estadística ComputacionalUsers/emil_/Desktop/ITAM_Maestrtía/Estadística Computacionalexit
+   97  setwd
+   98  getwd
+   99  pwd
+  100  cd /mnt
+  101  ls
+  102  c
+  103  cd c
+  104  ls
+  105  cd Users/emil_/Desktop/ITAM_Maestria/Estadística Computacional
+  106  cd Users/emil_/Desktop/ITAM_Maestria/Estadística Computacionalcd Users/emil_/Desktop/ITAM_Maestria/Estadística Computacional/
+  107  cd Users/emil_/Desktop/ITAM_Maestria/Estadística\ Computacional/
+  108  cd "Users/emil_/Desktop/ITAM_Maestria/Estadística Computacional/"
+  109  cd /mnt/c/Users/emil_/Desktop/ITAM_Maestria/Estadística\ Computacional/
+  110  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestria/Estadística Computacional/"
+  111  ls /mnt/c/Users/emil_/Desktop/ITAM_Maestria/
+  112  ls /mnt/c/Users/
+  113  ls /mnt/c/Users/emil_/Desktop/
+  114  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestrtía"
+  115  ls
+  116  cd "Estadística Computacional"
+  117  ls
+  118  cd data
+  119  unzip data.zip
+  120  sudo apt update
+  121  sudo apt install unzip
+  122  unzip data.zip
+  123  cd data
+  124  unzip data.zip
+  125  ls
+  126  sudo docker run --rm -it -v .:/data datasciencetoolbox/dsatcl2e
+  127  docker run --rm -it -v $(pwd):/data datasciencetoolbox/dsatcl2e
+  128  docker version
+  129  pwd
+  130  docker version
+  131  docker run --rm -it -v $(pwd):/data datasciencetoolbox/dsatcl2e
+  132  exit
+  133  pwd
+  134  cd /mnt
+  135  ls
+  136  c
+  137  cd c
+  138  lz
+  139  ls
+  140  cd Users/emil_/Desktop/ITAM_Maestrtía/Estadística/Computacional
+  141  cd Users/emil_/Desktop/ITAM_Maestria/Estadística\ Computacional/
+  142  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional"
+  143  ls
+  144  unzip data.zip
+  145  cd data
+  146  ls
+  147  sudo docker run --rm -it -v .:/data datasciencetoolbox/dsatcl2e
+  148  sudo docker ps -a
+  149  cdd
+  150  cd
+  151  pwd
+  152  cd /data
+  153  ls
+  154  cd ch02
+  155  clear
+  156  cd
+  157  pwd
+  158  cd /data
+  159  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional"
+  160  cd /data
+  161  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional"
+  162  docker run --rm -it -v $(pwd):/data datasciencetoolbox/dsatcl2e
+  163  docker run --rm -it -v "$(pwd)":/data datasciencetoolbox/dsatcl2e
+  164  history
+  165  sudo docker ps -a
+  166  sudo dokcer ps -a
+  167  which docker
+  168  docker version
+  169  cd
+  170  pwd
+  171  cd /data
+  172  ls
+  173  docker run --rm -it -v $(pwd):/data datasciencetoolbox/dsatcl2e
+  174  sudo docker ps -a
+  175  cd /data
+  176  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional/data"
+  177  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestría/Estadística Computacional/data"
+  178  cd "/mnt/c/Users/emil_/Deshistory
+  179  cat .zsh_history
+  180  history
+  181  /home/dst
+  182  pwd
+  183  ls
+  184  ls -a
+  185  egrep HIST *
+  186  HIST .*
+  187  nano .zshrc
+  188  [200~# ~/.zshrc
+  189  export PATH="$HOME/.local/bin:$PATH"
+  190  alias ll='ls -alF'
+  191  set -o vi  # (opcional) modo vi~
+  192  # ~/.zshrc
+  193  export PATH="$HOME/.local/bin:$PATH"
+  194  alias ll='ls -alF'
+  195  set -o vi  # (opcional) modo vi
+  196  pwd
+  197  ls
+  198  ls -al
+  199  ls -a
+  200  sudo apt update && sudo apt install -y zsh
+  201  chsh -s "$(which zsh)" "$USER"
+  202  cat > ~/.zshrc <<'EOF'
+  203  # --- ajustes personales (Zsh) ---
+  204  export PATH="$HOME/.local/bin:$PATH"
+  205  # Alias útiles
+  206  alias ll='ls -alF'
+  207  # Modo edición tipo vi
+  208  bindkey -v
+  209  # Historial en Zsh
+  210  HISTFILE="$HOME/.zsh_history"
+  211  HISTSIZE=5000        # en memoria
+  212  SAVEHIST=5000        # guardado en archivo
+  213  setopt APPEND_HISTORY        # agrega al archivo, no sobrescribe
+  214  setopt HIST_IGNORE_ALL_DUPS  # quita duplicados
+  215  setopt HIST_IGNORE_SPACE     # no guarda comandos que empiecen con espacio
+  216  setopt EXTENDED_HISTORY      # guarda timestamps
+  217  EOF
+  218  test -f ~/.zshrc && sed -i 's/^export HISTSAVE/# &  (typo: usa SAVEHIST)/' ~/.zshrc
+  219  zsh
+  220  sudo mkdir -p /usr/share/zsh/vendor-completions
+  221  sudo rm -f /usr/share/zsh/vendor-completions/_docker
+  222  sudo touch /usr/share/zsh/vendor-completions/_docker
+  223  exec zsh -l
+  224  sed -i '/^\s*exec zsh\s*$/d' ~/.bashrc ~/.profile ~/.zprofile ~/.zlogin 2>/dev/null
+  225  chsh -s /bin/bash "$USER" || sudo usermod -s /bin/bash "$USER"
+  226  printf "\n# prompt simple tipo clase\nPS1='\\$ '\n" >> ~/.bashrc
+  227  exec bash -l
+  228  echo $0
+  229  exec bash -l
+  230  cat >> ~/.bashrc <<'EOF'
+  231  force_color_prompt=yes
+  232  if [ -x /usr/bin/dircolors ]; then
+  233    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
+  234    alias ls='ls --color=auto'
+  235    alias grep='grep --color=auto'
+  236    alias fgrep='fgrep --color=auto'
+  237    alias egrep='egrep --color=auto'
+  238  fi
+  239  if [ -n "$force_color_prompt" ]; then
+  240    if [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then
+  241      color_prompt=yes
+  242    fi
+  243  fi
+  244  if [ "$color_prompt" = yes ]; then
+  245    PS1='${debian_chroot:+($debian_chroot)}\[\e[1;32m\]\u@\h\[\e[0m\]:\[\e[1;34m\]\w\[\e[0m\]\$ '
+  246  else
+  247    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
+  248  fi
+  249  unset color_prompt force_color_prompt
+  250  EOF
+  251  exec bash -l
+  252  exec zhl-l
+  253  exec zhl -l
+  254  sudo docker ps -a
+  255  pws
+  256  pwd
+  257  cd /mnt/c/Users/emil_/Desktop/ITAM_Maestria/Estadística\ Computacional/data/
+  258  pwd
+  259  cd /mnt/c/Users/emil_/Desktop/ITAM_Maestria/Estadística\ Computacional/
+  260  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional"
+  261  exit
+  262  pwd
+  263  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional/data"
+  264  pwd
+  265  sudo docker run -it -v .:
+  266  sudo docker run -it -v
+  267  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional"
+  268  sudo docker run -it -v
+  269  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional/data"
+  270  pwd
+  271  ls
+  272  cd/data
+  273  cd r
+  274  ls
+  275  cd ..
+  276  endcoding
+  277  cd endcoding
+  278  ls
+  279  sudo docker ps -a
+  280  sudo docker run -it -v .:/data datasciencetoolbox/dsatcl2e
+  281  cd ..
+  282  sudo docker run -it -v .:/data datasciencetoolbox/dsatcl2e
+  283  sudo docker start 6f7bcd722bc1
+  284  history
+  285  docker version
+  286  sudo docker run -it -v .:/data datasciencetoolbox/dsatcl2e
+  287  cd "/mnt/c/Users/emil_/Desktop/ITAM_Maestrtía/Estadística Computacional/data"
+  288  r
+  289  cd r
+  290  ls
+  291  more bayes_ingenuo_clasificador.R
+  292  curl -L -o 20030228_easy_ham_2.tar.bz2 http://spamassassin.apache.org/old/publiccorpus/20030228_easy_ham_2.tar.bz2
+  293  ls
+  294  curl -L -o 20030228_hard_ham.tar.bz2 http://spamassassin.apache.org/old/publiccorpus/20030228_hard_ham.tar.bz2
+  295  curl -L -o 20030228_spam_2.tar.bz2 http://spamassassin.apache.org/old/publiccorpus/20030228_spam_2.tar.bz2
+  296  ls
+  297  ls data
+  298  mx *.bz2 data
+  299  mv *.bz2 data
+  300  cd data
+  301  mv *.tar.bz2 ..
+  302  cd ..
+  303  tar -xjf 20030228_easy_ham_2.tar.bz2
+  304  exit
+  305  https://archive.ics.uci.edu/static/public/125/insurance+company+benchmark+coil+2000.zip
+  306  unzip https://archive.ics.uci.edu/static/public/125/insurance+company+benchmark+coil+2000.zip
+  307  unzip insurance+company+benchmark+coil+2000.zip
+  308  wget
+  309  wget https://archive.ics.uci.edu/static/public/125/insurance+company+benchmark+coil+2000.zip
+  310  ls
+  311  unzip insurance+company+benchmark+coil+2000.zip
+  312  ls
+  313  cat dictionary.txt
+  314  cat ticdata2000.txt
+  315  cat dictionary.txt
+  316  ls
+  317  cat tic.data.html
+  318  ls
+  319  # 0) Define la carpeta donde quedaron los archivos descomprimidos
+  320  EXTRACT="./extract"   # <-- cámbialo si la tuya es distinta
+  321  # 1) Localiza el archivo de datos (ticdata2000)
+  322  DATA_FILE="$(find "$EXTRACT" -type f \( -iname 'ticdata2000.*' -o -iname 'ticdata*.txt' \) -print -quit)"
+  323  test -n "$DATA_FILE" || { echo "No encontré ticdata2000.*"; exit 1; }
+  324  unzip insurance+company+benchmark+coil+2000.zip
+  325  y
+  326  cat ticdata2000.txt
+  327  ls
+  328  cat dictionary.txt
+  329  enc2utf8(TickDataDescr.txt)
+  330  enc2utf8(TicDataDescr.txt)
+  331  ls
+  332  file TicDataDescr.txt
+  333  iconv -f ISO-8859-1 -t UTF-8 archivo.txt -o conv -f ISO-8859-1 -t UTF-8 TicDataDescr.txt -o TicDataDescr_utf.txt.txt
+  334  iconv -f ISO-8859-1 -t UTF-8 TicDataDescr.txt -o TicDataDescr_utf.txt
+  335  ls
+  336  rm -rf TicDataDescr.txt.txt
+  337  ls
+  338  rm -rf TicDataDescr_utf.txt.txt
+  339  ls
+  340  file TicDataDescr_utf.txt
+  341  cat TicDataDescr_utf.txt
+  342  egrep --binary-files=text "[0-9]{1,2}\s[A-Z]{2,}" TicDataDescr_utf.txt
+  343  history
